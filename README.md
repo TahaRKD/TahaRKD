@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TahaRKD
 - 👀 I’m interested in Ai and machine learning 
-- 🌱 I’m currently learning Arduino
+- 🌱 I’m currently learning HTMl & CSS
 - 📫 How to reach me : taharokadiya@gmail.com
 
 <!---
